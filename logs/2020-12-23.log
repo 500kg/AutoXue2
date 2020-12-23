@@ -1,0 +1,695 @@
+[2020-12-23 19:37:05,176][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:37:05,186][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：emulator-5554
+[2020-12-23 19:37:05,195][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:37:42,883][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 19:37:42,883][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 19:37:42,883][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:37:44,168][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 19:37:45,470][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 19:37:47,613][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 19:37:55,986][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 19:37:55,987][INFO][retrying.py][call][200]: 挑战答题, (0, 6)
+[2020-12-23 19:37:55,988][INFO][retrying.py][call][200]: 争上游答题, (0, 5)
+[2020-12-23 19:37:55,988][INFO][retrying.py][call][200]: 双人对战, (0, 2)
+[2020-12-23 19:37:55,988][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 19:37:55,988][INFO][retrying.py][call][200]: 分享, (0, 1)
+[2020-12-23 19:37:55,988][INFO][retrying.py][call][200]: 发表观点, (0, 1)
+[2020-12-23 19:37:55,988][INFO][retrying.py][call][200]: 本地频道, (0, 1)
+[2020-12-23 19:37:55,989][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 19:37:55,989][INFO][retrying.py][call][200]: 今日总得分：    37
+[2020-12-23 19:37:55,989][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 19:37:58,126][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 19:37:58,126][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 19:37:58,126][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 19:37:58,126][DEBUG][startup.py][<module>][ 37]: 挑战答题: 6
+[2020-12-23 19:37:58,127][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 19:37:58,127][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 19:37:58,127][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 19:37:58,127][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 19:37:58,127][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 19:37:58,127][INFO][startup.py][<module>][ 37]: 每日答题积分已达成，无需重复答题
+[2020-12-23 19:38:00,128][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/home_bottom_tab_icon_large"]
+[2020-12-23 19:38:07,269][INFO][startup.py][<module>][ 37]: 在本地学习平台驻足 10 秒
+[2020-12-23 19:38:17,446][INFO][startup.py][<module>][ 37]: 学习平台 -> 文章列表
+[2020-12-23 19:38:19,497][DEBUG][startup.py][<module>][ 37]: 推荐
+[2020-12-23 19:38:19,497][DEBUG][startup.py][<module>][ 37]: 要闻
+[2020-12-23 19:38:19,497][DEBUG][startup.py][<module>][ 37]: 新思想
+[2020-12-23 19:38:19,497][DEBUG][startup.py][<module>][ 37]: 北京
+[2020-12-23 19:38:19,497][DEBUG][startup.py][<module>][ 37]: 综合
+[2020-12-23 19:38:19,498][DEBUG][startup.py][<module>][ 37]: 县级融媒
+[2020-12-23 19:38:19,498][DEBUG][startup.py][<module>][ 37]: 实播中国
+[2020-12-23 19:38:19,498][DEBUG][startup.py][<module>][ 37]: 快闪
+[2020-12-23 19:38:19,498][DEBUG][startup.py][<module>][ 37]: 未找到 科技 栏目，左划
+[2020-12-23 19:38:19,590][DEBUG][startup.py][<module>][ 37]: 拖动范围：{'left': 0, 'top': 126, 'right': 939, 'bottom': 208}
+[2020-12-23 19:38:21,586][DEBUG][startup.py][<module>][ 37]: 发布
+[2020-12-23 19:38:21,586][DEBUG][startup.py][<module>][ 37]: 农民丰收
+[2020-12-23 19:38:21,586][DEBUG][startup.py][<module>][ 37]: 实践
+[2020-12-23 19:38:21,586][DEBUG][startup.py][<module>][ 37]: 订阅
+[2020-12-23 19:38:21,586][DEBUG][startup.py][<module>][ 37]: 科技
+[2020-12-23 19:38:21,735][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/home_bottom_tab_icon_large"]
+[2020-12-23 19:38:23,389][INFO][startup.py][<module>][ 37]: 新闻阅读已达成，无需重复阅读,只评论转发
+[2020-12-23 19:38:23,459][DEBUG][startup.py][<module>][ 37]: 快闪
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 发布
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 农民丰收
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 实践
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 订阅
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 科技
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 国际
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 经济
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 教育
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 文化
+[2020-12-23 19:38:23,460][DEBUG][startup.py][<module>][ 37]: 未找到 体育 栏目，左划
+[2020-12-23 19:38:23,556][DEBUG][startup.py][<module>][ 37]: 拖动范围：{'left': 0, 'top': 126, 'right': 939, 'bottom': 208}
+[2020-12-23 19:38:25,552][DEBUG][startup.py][<module>][ 37]: 文化
+[2020-12-23 19:38:25,552][DEBUG][startup.py][<module>][ 37]: 强国征文
+[2020-12-23 19:38:25,552][DEBUG][startup.py][<module>][ 37]: 旅游
+[2020-12-23 19:38:25,552][DEBUG][startup.py][<module>][ 37]: 体育
+[2020-12-23 19:38:25,698][INFO][startup.py][<module>][ 37]: 评论，转发2 则
+[2020-12-23 19:38:26,202][INFO][startup.py][<module>][ 37]: 真是遗憾，一屏都没有可点击的新闻，上滑
+[2020-12-23 19:38:27,169][DEBUG][startup.py][<module>][ 37]: 向上滑动屏幕
+[2020-12-23 19:38:30,431][DEBUG][startup.py][<module>][ 37]: 向上滑动屏幕
+[2020-12-23 19:38:34,664][DEBUG][startup.py][<module>][ 37]: 向上滑动屏幕
+[2020-12-23 19:38:36,927][INFO][startup.py][<module>][ 37]: <2> 当前篇目 2020-2021赛季CBA联赛常规赛第二阶段赛程更新
+[2020-12-23 19:38:39,956][DEBUG][startup.py][<module>][ 37]: 好，支持，威武
+[2020-12-23 19:38:39,956][DEBUG][startup.py][<module>][ 37]: 好东西必须和好基友分享，走起，转起！
+[2020-12-23 19:38:39,956][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="欢迎发表你的观点"]/following-sibling::android.widget.ImageView[2]
+[2020-12-23 19:38:43,170][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="分享到学习强国"]
+[2020-12-23 19:38:47,354][DEBUG][startup.py][<module>][ 37]: 分享 -> 文章
+[2020-12-23 19:38:50,360][DEBUG][startup.py][<module>][ 37]: 哇塞，这么精彩的文章必须留个言再走！
+[2020-12-23 19:38:50,360][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="欢迎发表你的观点"]
+[2020-12-23 19:38:52,826][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="发布"]
+[2020-12-23 19:38:55,987][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="欢迎发表你的观点"]/following-sibling::android.widget.FrameLayout
+[2020-12-23 19:38:57,164][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="删除"]
+[2020-12-23 19:38:58,346][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.Button[@text="确认"]
+[2020-12-23 19:38:59,509][DEBUG][startup.py][<module>][ 37]: 文章——>学习列表
+[2020-12-23 19:39:03,720][INFO][startup.py][<module>][ 37]: <1> 当前篇目 CBA常规赛第21轮结束 辽宁队继续领跑排行榜
+[2020-12-23 19:39:06,753][DEBUG][startup.py][<module>][ 37]: 好，支持，威武
+[2020-12-23 19:39:06,753][DEBUG][startup.py][<module>][ 37]: 哇塞，这么精彩的文章必须留个言再走！
+[2020-12-23 19:39:06,753][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="欢迎发表你的观点"]
+[2020-12-23 19:39:09,223][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="发布"]
+[2020-12-23 19:39:12,380][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="欢迎发表你的观点"]/following-sibling::android.widget.FrameLayout
+[2020-12-23 19:39:13,560][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="删除"]
+[2020-12-23 19:39:14,743][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.Button[@text="确认"]
+[2020-12-23 19:39:15,897][DEBUG][startup.py][<module>][ 37]: 好东西必须和好基友分享，走起，转起！
+[2020-12-23 19:39:15,897][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="欢迎发表你的观点"]/following-sibling::android.widget.ImageView[2]
+[2020-12-23 19:39:19,077][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="分享到学习强国"]
+[2020-12-23 19:39:23,268][DEBUG][startup.py][<module>][ 37]: 分享 -> 文章
+[2020-12-23 19:39:26,276][DEBUG][startup.py][<module>][ 37]: 文章——>学习列表
+[2020-12-23 19:39:30,513][DEBUG][startup.py][<module>][ 37]: 向上滑动屏幕
+[2020-12-23 19:39:37,321][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:37,687][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:39,773][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:40,153][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:42,230][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:42,603][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:44,673][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:45,037][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:47,107][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:47,473][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:49,550][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:49,921][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:51,992][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:52,356][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:54,427][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:54,787][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:56,859][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:57,221][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:39:59,295][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:39:59,670][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:01,747][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:02,119][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:04,192][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:04,377][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:06,452][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:06,631][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:08,700][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:08,876][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:10,949][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:11,320][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:13,392][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:13,755][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:15,828][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:16,186][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:18,253][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:18,625][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:20,697][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:21,071][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:40:23,147][INFO][startup.py][<module>][ 37]: 本页没有可点击的订阅，上滑一次
+[2020-12-23 19:40:23,321][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:41:43,586][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:41:43,597][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：emulator-5554
+[2020-12-23 19:41:43,605][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:42:27,576][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:42:27,587][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 19:42:27,595][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:43:01,536][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 19:43:01,536][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 19:43:01,536][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:43:02,805][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 19:43:04,133][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 19:43:06,243][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 挑战答题, (0, 6)
+[2020-12-23 19:43:14,756][INFO][retrying.py][call][200]: 争上游答题, (0, 5)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 双人对战, (0, 2)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 19:43:14,757][INFO][retrying.py][call][200]: 今日总得分：    40
+[2020-12-23 19:43:14,758][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 19:43:16,877][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 19:43:16,877][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 19:43:16,877][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 19:43:16,877][DEBUG][startup.py][<module>][ 37]: 挑战答题: 7
+[2020-12-23 19:43:16,878][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 19:43:16,878][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 19:43:16,878][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 19:43:16,878][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 19:43:16,878][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 19:43:16,878][INFO][startup.py][<module>][ 37]: 每周答题已经有积分，不再重复答题！
+[2020-12-23 19:43:18,879][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:43:20,363][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:43:24,543][INFO][startup.py][<module>][ 37]: 双人对战走一波！ 
+[2020-12-23 19:43:34,715][INFO][startup.py][<module>][ 37]: 没等到双人对战界面，返回
+[2020-12-23 19:43:34,715][INFO][startup.py][<module>][ 37]: 本次双人对战作了 None 题
+[2020-12-23 19:43:36,715][DEBUG][startup.py][<module>][ 37]: doublechanllenge ->quiz
+[2020-12-23 19:43:41,834][DEBUG][startup.py][<module>][ 37]: doublechanllenge ->quiz
+[2020-12-23 19:43:44,870][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="退出"]
+[2020-12-23 19:43:54,905][INFO][startup.py][<module>][ 37]: 第一次点击出错的错误提示信息'NoneType' object has no attribute 'click'
+[2020-12-23 19:43:54,905][INFO][startup.py][<module>][ 37]: 元素信息//*[@text="退出"]
+[2020-12-23 19:43:54,906][INFO][startup.py][<module>][ 37]: 点击菜单异常, 尝试捕获APP卡顿菜单
+[2020-12-23 19:44:15,874][INFO][startup.py][<module>][ 37]: 学习过程出现如下错误: 'NoneType' object has no attribute 'click'
+[2020-12-23 19:44:46,979][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:44:46,990][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 19:44:46,999][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:45:17,695][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 19:45:17,695][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 19:45:17,695][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:45:18,959][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 19:45:20,276][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 19:45:22,378][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 挑战答题, (0, 6)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 争上游答题, (0, 5)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 双人对战, (0, 2)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 19:45:30,433][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 19:45:30,434][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 19:45:30,434][INFO][retrying.py][call][200]: 今日总得分：    40
+[2020-12-23 19:45:30,434][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 19:45:32,553][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 19:45:32,553][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 19:45:32,553][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 19:45:32,553][DEBUG][startup.py][<module>][ 37]: 挑战答题: 7
+[2020-12-23 19:45:32,553][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 19:45:32,553][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 19:45:32,554][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 19:45:32,554][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 19:45:32,554][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 19:45:32,554][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:45:33,750][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:45:37,924][INFO][startup.py][<module>][ 37]: 挑战答题 目标 7 题, Go!
+[2020-12-23 19:45:39,925][DEBUG][startup.py][<module>][ 37]: safe click //android.view.View[@text="挑战对抗磨练答题技能"]/following-sibling::android.view.View/following-sibling::android.view.View//following-sibling::android.view.View//following-sibling::android.view.View
+[2020-12-23 19:46:05,103][INFO][startup.py][<module>][ 37]: 学习过程出现如下错误: ['//android.widget.ListView/preceding-sibling::android.view.View[1]']
+[2020-12-23 19:46:27,026][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:46:27,035][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 19:46:27,044][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:46:56,471][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 19:46:56,471][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 19:46:56,471][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:47:18,186][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 19:47:28,388][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:47:28,398][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 19:47:28,405][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:47:55,127][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 19:47:55,127][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 19:47:55,127][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:47:56,388][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 19:47:57,693][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 19:47:59,810][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 19:48:07,829][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 挑战答题, (0, 6)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 争上游答题, (0, 5)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 双人对战, (0, 2)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 19:48:07,830][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 19:48:07,831][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 19:48:07,831][INFO][retrying.py][call][200]: 今日总得分：    40
+[2020-12-23 19:48:07,831][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 19:48:09,950][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 19:48:09,950][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 19:48:09,950][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 19:48:09,950][DEBUG][startup.py][<module>][ 37]: 挑战答题: 6
+[2020-12-23 19:48:09,951][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 19:48:09,951][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 19:48:09,951][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 19:48:09,951][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 19:48:09,951][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 19:48:09,951][INFO][startup.py][<module>][ 37]: 订阅开关已关闭，跳过
+[2020-12-23 19:48:12,952][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:48:14,149][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:48:18,323][INFO][startup.py][<module>][ 37]: 争上游走2波！ 
+[2020-12-23 19:48:20,790][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="开始比赛"]
+[2020-12-23 19:48:32,608][DEBUG][model_local.py][query_with_content][ 97]: query with 诗句“布谷飞飞劝早耕，舂锄扑扑趁春晴”描绘出一幅热闹的图。...
+[2020-12-23 19:48:35,333][DEBUG][model_local.py][query_with_content][ 97]: query with 回顾电视发展的历史，“电视之父”作出了巨大贡献。...
+[2020-12-23 19:48:38,892][DEBUG][model_local.py][query_with_content][ 97]: query with “最古之史，实为方志”是提出的。...
+[2020-12-23 19:51:47,062][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 19:51:47,073][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 19:51:47,081][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 19:52:13,984][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 19:52:13,984][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 19:52:13,984][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:52:15,251][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 19:52:16,564][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 19:52:18,677][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 19:52:26,585][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 挑战答题, (0, 6)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 争上游答题, (1, 5)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 双人对战, (0, 2)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 19:52:26,586][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 19:52:26,587][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 19:52:26,587][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 19:52:26,587][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 19:52:26,587][INFO][retrying.py][call][200]: 今日总得分：    41
+[2020-12-23 19:52:26,587][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 19:52:28,684][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 19:52:28,684][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 19:52:28,684][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 19:52:28,684][DEBUG][startup.py][<module>][ 37]: 挑战答题: 6
+[2020-12-23 19:52:28,684][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 19:52:28,685][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 19:52:28,685][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 19:52:28,685][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 19:52:28,685][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 19:52:29,685][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:52:30,873][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:52:35,048][INFO][startup.py][<module>][ 37]: 争上游走1波！ 
+[2020-12-23 19:52:37,525][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="开始比赛"]
+[2020-12-23 19:52:49,417][DEBUG][model_local.py][query_with_content][ 97]: query with 京剧最基本的两种声腔为、。...
+[2020-12-23 19:52:52,117][DEBUG][model_local.py][query_with_content][ 97]: query with 我国江淮流域每年初夏常常出现一段降水量较大、降水次数较频繁的连阴雨天气，这一现象叫做。...
+[2020-12-23 19:52:55,598][DEBUG][model_local.py][query_with_content][ 97]: query with 下列食品中，富含维生素C的是。...
+[2020-12-23 19:53:02,038][DEBUG][model_local.py][query_with_content][ 97]: query with 历法是计量比更长的时间间隔的法则。...
+[2020-12-23 19:53:05,519][DEBUG][model_local.py][query_with_content][ 97]: query with 由外国的传教士参加编撰，系统地介绍了欧洲的天文学著作，吸收了欧洲历法的成果的著作是。...
+[2020-12-23 19:53:30,321][INFO][startup.py][<module>][ 37]: 恭喜！本轮你获得了冠军
+[2020-12-23 19:53:30,321][DEBUG][startup.py][<module>][ 37]: 争上游 -> 答题入口
+[2020-12-23 19:53:32,493][INFO][startup.py][<module>][ 37]: 本次争上游刷了 5 题
+[2020-12-23 19:53:35,494][DEBUG][startup.py][<module>][ 37]: zsy_start->quiz
+[2020-12-23 19:53:37,520][INFO][startup.py][<module>][ 37]: 争上游输2波！ 
+[2020-12-23 19:53:39,749][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="开始比赛"]
+[2020-12-23 19:54:39,841][INFO][startup.py][<module>][ 37]: 恭喜，本轮挑战失败
+[2020-12-23 19:54:39,841][DEBUG][startup.py][<module>][ 37]: 争上游 -> 答题入口
+[2020-12-23 19:54:44,006][DEBUG][startup.py][<module>][ 37]: zsy_start->quiz
+[2020-12-23 19:54:48,271][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="开始比赛"]
+[2020-12-23 19:55:48,006][INFO][startup.py][<module>][ 37]: 恭喜，本轮挑战失败
+[2020-12-23 19:55:48,006][DEBUG][startup.py][<module>][ 37]: 争上游 -> 答题入口
+[2020-12-23 19:55:53,174][DEBUG][startup.py][<module>][ 37]: zsy_start->quiz
+[2020-12-23 19:55:55,204][DEBUG][startup.py][<module>][ 37]: quiz -> mine
+[2020-12-23 19:55:57,338][DEBUG][startup.py][<module>][ 37]: mine -> home
+[2020-12-23 19:56:04,576][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:56:05,760][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:56:09,930][INFO][startup.py][<module>][ 37]: 挑战答题 目标 6 题, Go!
+[2020-12-23 19:56:11,931][DEBUG][startup.py][<module>][ 37]: safe click //android.view.View[@text="挑战对抗磨练答题技能"]/following-sibling::android.view.View/following-sibling::android.view.View//following-sibling::android.view.View//following-sibling::android.view.View
+[2020-12-23 19:56:14,773][INFO][startup.py][<module>][ 37]: <6> 废灯管在垃圾分类中属于。
+[2020-12-23 19:56:14,774][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: B
+[2020-12-23 19:56:21,141][DEBUG][startup.py][<module>][ 37]: 恭喜本题回答正确
+[2020-12-23 19:56:21,141][DEBUG][model_local.py][post_precise][155]: POST 废灯管在垃圾分类中属于。 ['厨余垃圾', '有害垃圾', '可回收物', '其他垃圾'] B ...
+[2020-12-23 19:56:21,141][DEBUG][model_local.py][post_precise][165]: GET 废灯管在垃圾分类中属于。...
+[2020-12-23 19:56:21,278][INFO][startup.py][<module>][ 37]: <5> 废灯管在垃圾分类中属于。
+[2020-12-23 19:56:21,279][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: B
+[2020-12-23 19:56:27,605][DEBUG][startup.py][<module>][ 37]: 恭喜本题回答正确
+[2020-12-23 19:56:27,605][DEBUG][model_local.py][post_precise][155]: POST 废灯管在垃圾分类中属于。 ['厨余垃圾', '有害垃圾', '可回收物', '其他垃圾'] B ...
+[2020-12-23 19:56:27,605][DEBUG][model_local.py][post_precise][165]: GET 废灯管在垃圾分类中属于。...
+[2020-12-23 19:56:27,746][INFO][startup.py][<module>][ 37]: <4> 岩石按其地质成因划分为火成岩、沉积岩与变质岩三大类。是三大类岩石的主体，占地壳岩石体积的60%以上。
+[2020-12-23 19:56:27,747][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: A
+[2020-12-23 19:56:35,055][DEBUG][startup.py][<module>][ 37]: 恭喜本题回答正确
+[2020-12-23 19:56:35,055][DEBUG][model_local.py][post_precise][155]: POST 岩石按其地质成因划分为火成岩、沉积岩与变质岩三大类。是三大类岩石的主体，占地壳岩石体积的60%以上。 ['火成岩', '沉积岩', '变质岩'] A ...
+[2020-12-23 19:56:35,055][DEBUG][model_local.py][post_precise][165]: GET 岩石按其地质成因划分为火成岩、沉积岩与变质岩三大类。是三大类岩石的主体，占地壳岩石体积的60%以上。...
+[2020-12-23 19:56:35,184][INFO][startup.py][<module>][ 37]: <3> 乘坐公共交通工具时，一旦发生火灾，下列逃生表述中正确的是。
+[2020-12-23 19:56:35,185][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: B
+[2020-12-23 19:56:40,534][DEBUG][startup.py][<module>][ 37]: 恭喜本题回答正确
+[2020-12-23 19:56:40,534][DEBUG][model_local.py][post_precise][155]: POST 乘坐公共交通工具时，一旦发生火灾，下列逃生表述中正确的是。 ['不要慌张，按顺序慢慢走', '寻找最近的门窗等出口逃生，迅速离开车厢并远离起火车辆', '所有人都从车门逃生'] B ...
+[2020-12-23 19:56:40,534][DEBUG][model_local.py][post_precise][165]: GET 乘坐公共交通工具时，一旦发生火灾，下列逃生表述中正确的是。...
+[2020-12-23 19:56:40,677][INFO][startup.py][<module>][ 37]: <2> 儒家“五常”贯穿于中华伦理的发展中，是中国古代传统价值体系中的最核心因素，那么“五常”指的是：。
+[2020-12-23 19:56:40,678][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: A
+[2020-12-23 19:56:46,970][DEBUG][startup.py][<module>][ 37]: 恭喜本题回答正确
+[2020-12-23 19:56:46,970][DEBUG][model_local.py][post_precise][155]: POST 儒家“五常”贯穿于中华伦理的发展中，是中国古代传统价值体系中的最核心因素，那么“五常”指的是：。 ['仁义礼智信', '温良恭俭让', '金木水火土', '礼乐射御书'] A ...
+[2020-12-23 19:56:46,970][DEBUG][model_local.py][post_precise][165]: GET 儒家“五常”贯穿于中华伦理的发展中，是中国古代传统价值体系中的最核心因素，那么“五常”指的是：。...
+[2020-12-23 19:56:47,101][INFO][startup.py][<module>][ 37]: <1> 赤道上的白天和黑夜的长度永远相等的。
+[2020-12-23 19:56:47,101][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: A
+[2020-12-23 19:56:52,447][DEBUG][startup.py][<module>][ 37]: 恭喜本题回答正确
+[2020-12-23 19:56:52,447][DEBUG][model_local.py][post_precise][155]: POST 赤道上的白天和黑夜的长度永远相等的。 ['是', '不是'] A ...
+[2020-12-23 19:56:52,447][DEBUG][model_local.py][post_precise][165]: GET 赤道上的白天和黑夜的长度永远相等的。...
+[2020-12-23 19:56:52,585][INFO][startup.py][<module>][ 37]: <0> 1920年秋到1921年春，李大钊、张国焘等在北京，董必武、陈潭秋、包惠僧等在武汉，毛泽东、何叔衡等在，王尽美、邓恩铭等在济南，谭平山、谭植棠等在广州以不同名称成立了中国共产党早期组织。
+[2020-12-23 19:56:52,586][INFO][startup.py][<module>][ 37]: 本地搜索已知的正确答案: B
+[2020-12-23 19:56:52,589][INFO][startup.py][<module>][ 37]: 已完成指定题量，设置提交选项偏移 -2
+[2020-12-23 19:56:58,191][DEBUG][startup.py][<module>][ 37]: 很遗憾本题回答错误
+[2020-12-23 19:56:58,191][DEBUG][startup.py][<module>][ 37]: 点击结束本局
+[2020-12-23 19:57:03,407][DEBUG][startup.py][<module>][ 37]: share_page -> quiz
+[2020-12-23 19:57:05,443][INFO][startup.py][<module>][ 37]: 已成功挑战 6 题，正在返回
+[2020-12-23 19:57:05,443][DEBUG][startup.py][<module>][ 37]: quiz -> mine
+[2020-12-23 19:57:07,539][DEBUG][startup.py][<module>][ 37]: mine -> home
+[2020-12-23 19:57:14,904][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:57:16,088][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:57:22,528][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:22,901][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:25,625][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:25,983][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:28,808][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:29,167][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:31,909][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:32,268][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:34,996][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:35,368][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:38,251][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:38,617][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:41,433][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:41,806][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:44,285][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:44,649][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:47,554][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:47,919][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:50,857][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 19:57:51,216][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 19:57:51,516][INFO][startup.py][<module>][ 37]: 都过期了,找不到未做的题目，退出。
+[2020-12-23 19:57:51,516][DEBUG][startup.py][<module>][ 37]: default msg
+[2020-12-23 19:57:53,587][DEBUG][startup.py][<module>][ 37]: quiz -> mine
+[2020-12-23 19:57:55,708][DEBUG][startup.py][<module>][ 37]: mine -> home
+[2020-12-23 19:58:02,917][INFO][startup.py][<module>][ 37]: 每周答题已经有积分，不再重复答题！
+[2020-12-23 19:58:04,918][DEBUG][startup.py][<module>][ 37]: 本地频道 积分已达成，无需重复获取积分
+[2020-12-23 19:58:04,918][INFO][startup.py][<module>][ 37]: 本地频道已达成，跳过
+[2020-12-23 19:58:04,918][DEBUG][startup.py][<module>][ 37]: 发表观点 积分已达成，无需重复获取积分
+[2020-12-23 19:58:04,918][DEBUG][startup.py][<module>][ 37]: 分享 积分已达成，无需重复获取积分
+[2020-12-23 19:58:04,918][INFO][startup.py][<module>][ 37]: 新闻阅读订阅均已达成，跳过
+[2020-12-23 19:58:06,919][INFO][startup.py][<module>][ 37]: 订阅开关已关闭，跳过
+[2020-12-23 19:58:08,919][INFO][startup.py][<module>][ 37]: 每日答题积分已达成，无需重复答题
+[2020-12-23 19:58:10,920][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 19:58:12,109][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 19:58:16,281][INFO][startup.py][<module>][ 37]: 双人对战走一波！ 
+[2020-12-23 19:58:28,974][DEBUG][model_local.py][query_with_content][ 97]: query with 《中华人民共和国社会保险法》第十四条规定，养老保险个人账户不得提前支取，记账利率不得低于银行定期存款利率，免征利息税。个人死亡的，个人账户余额。...
+[2020-12-23 19:58:31,675][DEBUG][model_local.py][query_with_content][ 94]: 大概率是选择正确词形的题目！
+[2020-12-23 19:58:35,454][DEBUG][model_local.py][query_with_content][ 97]: query with 中国共产党第一次全国代表大会先后在、召开。...
+[2020-12-23 19:58:38,763][DEBUG][model_local.py][query_with_content][ 97]: query with “居庙堂之高则忧其民，处江湖之远则忧其君”出自宋朝诗人范仲淹的。...
+[2020-12-23 19:58:42,267][DEBUG][model_local.py][query_with_content][ 97]: query with 实现全体人民共同富裕的宏伟目标，最终靠的是。...
+[2020-12-23 19:59:08,119][INFO][startup.py][<module>][ 37]: 恭喜！本轮你获得了冠军
+[2020-12-23 19:59:08,119][DEBUG][startup.py][<module>][ 37]: 双人对战 -> 双人对战开始页面
+[2020-12-23 19:59:10,243][INFO][startup.py][<module>][ 37]: 本次双人对战作了 6 题
+[2020-12-23 19:59:11,243][DEBUG][startup.py][<module>][ 37]: doublechanllenge ->quiz
+[2020-12-23 19:59:13,426][DEBUG][startup.py][<module>][ 37]: quiz -> mine
+[2020-12-23 19:59:15,501][DEBUG][startup.py][<module>][ 37]: mine -> home
+[2020-12-23 19:59:22,919][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 19:59:22,919][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 19:59:22,920][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 19:59:22,920][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 19:59:22,920][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 19:59:22,921][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 19:59:22,921][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 19:59:22,921][INFO][retrying.py][call][200]: 挑战答题, (6, 6)
+[2020-12-23 19:59:22,921][INFO][retrying.py][call][200]: 争上游答题, (3, 5)
+[2020-12-23 19:59:22,921][INFO][retrying.py][call][200]: 双人对战, (2, 2)
+[2020-12-23 19:59:22,921][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 19:59:22,922][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 19:59:22,922][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 19:59:22,922][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 19:59:22,922][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 19:59:22,922][INFO][retrying.py][call][200]: 今日总得分：    51
+[2020-12-23 19:59:22,923][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 19:59:25,020][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 19:59:25,020][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 19:59:25,020][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须重复视听
+[2020-12-23 19:59:25,020][DEBUG][startup.py][<module>][ 37]: 本地频道 积分已达成，无需重复获取积分
+[2020-12-23 19:59:25,020][INFO][startup.py][<module>][ 37]: 本地频道已达成，跳过
+[2020-12-23 19:59:25,021][DEBUG][startup.py][<module>][ 37]: 发表观点 积分已达成，无需重复获取积分
+[2020-12-23 19:59:25,021][DEBUG][startup.py][<module>][ 37]: 分享 积分已达成，无需重复获取积分
+[2020-12-23 19:59:25,021][INFO][startup.py][<module>][ 37]: 新闻阅读订阅均已达成，跳过
+[2020-12-23 19:59:25,021][INFO][startup.py][<module>][ 37]: 本账号学习用时：07:26
+[2020-12-23 19:59:25,021][INFO][startup.py][<module>][ 37]: 任务完成，1分钟后自动关闭程序
+[2020-12-23 20:02:28,064][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 20:02:28,074][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:02:28,082][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:03:01,376][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 20:03:01,376][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 20:03:01,376][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 20:03:02,658][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 20:03:03,962][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 20:03:06,111][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 20:03:14,597][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 挑战答题, (6, 6)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 争上游答题, (3, 5)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 双人对战, (2, 2)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 20:03:14,598][INFO][retrying.py][call][200]: 今日总得分：    51
+[2020-12-23 20:03:14,598][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 20:03:16,709][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 20:03:16,709][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 20:03:16,709][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 20:03:16,709][DEBUG][startup.py][<module>][ 37]: 挑战答题: 0
+[2020-12-23 20:03:16,709][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 20:03:16,710][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 20:03:16,710][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 20:03:16,710][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 20:03:16,710][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 20:03:16,825][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 20:03:18,019][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 20:03:24,469][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:24,835][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:27,271][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:27,670][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:30,313][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:30,684][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:33,520][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:33,884][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:36,645][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:37,017][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:39,856][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:40,219][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:43,091][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:43,451][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:45,920][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:46,283][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:49,200][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:49,566][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:52,491][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:03:52,863][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:03:53,616][INFO][startup.py][<module>][ 37]: 都过期了,找不到未做的题目，退出。
+[2020-12-23 20:03:53,617][DEBUG][startup.py][<module>][ 37]: default msg
+[2020-12-23 20:03:55,694][DEBUG][startup.py][<module>][ 37]: quiz -> mine
+[2020-12-23 20:03:57,771][DEBUG][startup.py][<module>][ 37]: mine -> home
+[2020-12-23 20:04:04,852][INFO][startup.py][<module>][ 37]: 争上游已经得到满分，跳过 
+[2020-12-23 20:04:06,853][INFO][startup.py][<module>][ 37]: 挑战答题积分已达成，无需重复挑战
+[2020-12-23 20:04:08,854][INFO][startup.py][<module>][ 37]: 订阅开关已关闭，跳过
+[2020-12-23 20:04:10,855][INFO][startup.py][<module>][ 37]: 每周答题已经有积分，不再重复答题！
+[2020-12-23 20:04:12,855][DEBUG][startup.py][<module>][ 37]: 本地频道 积分已达成，无需重复获取积分
+[2020-12-23 20:04:12,855][INFO][startup.py][<module>][ 37]: 本地频道已达成，跳过
+[2020-12-23 20:04:12,855][DEBUG][startup.py][<module>][ 37]: 发表观点 积分已达成，无需重复获取积分
+[2020-12-23 20:04:12,855][DEBUG][startup.py][<module>][ 37]: 分享 积分已达成，无需重复获取积分
+[2020-12-23 20:04:12,855][INFO][startup.py][<module>][ 37]: 新闻阅读订阅均已达成，跳过
+[2020-12-23 20:04:14,856][INFO][startup.py][<module>][ 37]: 双人对战已经得到满分，跳过 
+[2020-12-23 20:04:16,856][INFO][startup.py][<module>][ 37]: 每日答题积分已达成，无需重复答题
+[2020-12-23 20:04:22,005][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 20:04:22,005][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 20:04:22,005][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 20:04:22,005][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 20:04:22,005][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 20:04:22,005][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 挑战答题, (6, 6)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 争上游答题, (3, 5)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 双人对战, (2, 2)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 20:04:22,006][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 20:04:22,007][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 20:04:22,007][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 20:04:22,007][INFO][retrying.py][call][200]: 今日总得分：    51
+[2020-12-23 20:04:22,008][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 20:04:24,090][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 20:04:24,090][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 20:04:24,090][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须重复视听
+[2020-12-23 20:04:24,090][DEBUG][startup.py][<module>][ 37]: 本地频道 积分已达成，无需重复获取积分
+[2020-12-23 20:04:24,090][INFO][startup.py][<module>][ 37]: 本地频道已达成，跳过
+[2020-12-23 20:04:24,091][DEBUG][startup.py][<module>][ 37]: 发表观点 积分已达成，无需重复获取积分
+[2020-12-23 20:04:24,091][DEBUG][startup.py][<module>][ 37]: 分享 积分已达成，无需重复获取积分
+[2020-12-23 20:04:24,091][INFO][startup.py][<module>][ 37]: 新闻阅读订阅均已达成，跳过
+[2020-12-23 20:04:24,091][INFO][startup.py][<module>][ 37]: 本账号学习用时：01:37
+[2020-12-23 20:04:24,091][INFO][startup.py][<module>][ 37]: 任务完成，1分钟后自动关闭程序
+[2020-12-23 20:16:10,455][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 20:16:10,466][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:16:10,473][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:17:04,697][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 20:17:04,707][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:17:04,714][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:17:47,024][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 20:17:47,034][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:17:47,042][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:24:05,623][INFO][starLD.py][run_vim][ 26]: 模拟器已经启动，不需重复启动
+[2020-12-23 20:24:05,632][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:24:05,640][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:24:20,299][DEBUG][starLD.py][run_vim][ 30]: 模拟器未启动，正在启动模拟器...
+[2020-12-23 20:24:28,335][DEBUG][starLD.py][run_vim][ 37]: 模拟器启动成功。
+[2020-12-23 20:24:28,345][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:24:28,353][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:24:41,281][DEBUG][starLD.py][run_vim][ 30]: 模拟器未启动，正在启动模拟器...
+[2020-12-23 20:24:49,315][DEBUG][starLD.py][run_vim][ 37]: 模拟器启动成功。
+[2020-12-23 20:24:49,327][INFO][starLD.py][get_devices_id][ 67]: 设备ID为：127.0.0.1:5555
+[2020-12-23 20:24:49,334][INFO][startup.py][<module>][ 37]: 打开 UiAutomator2 服务,正在配置...
+[2020-12-23 20:25:23,285][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 20:25:23,285][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 20:25:23,285][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 20:25:24,550][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 20:25:25,854][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 20:25:28,003][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 20:25:47,869][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:48,002][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:49,021][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:50,024][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:51,030][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:52,043][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:53,058][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:54,066][DEBUG][retrying.py][call][200]: 向上滑动屏幕
+[2020-12-23 20:25:54,066][INFO][retrying.py][call][200]: 得分明细栏目没有出现，检查APP页面看看！！
+[2020-12-23 20:25:54,067][DEBUG][retrying.py][call][200]: default msg
+[2020-12-23 20:25:58,589][INFO][startup.py][<module>][ 37]: 学习过程出现如下错误: need more than 0 values to unpack
+[2020-12-23 20:25:58,611][INFO][startup.py][<module>][ 37]: APP不在前台界面，重新启动
+[2020-12-23 20:26:24,438][DEBUG][startup.py][<module>][ 37]: 已经登录
+[2020-12-23 20:26:24,438][INFO][startup.py][<module>][ 37]: 单一用户，不再注销登录，直接开始学习！
+[2020-12-23 20:26:24,438][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 20:26:25,722][DEBUG][startup.py][<module>][ 37]: safe click //*[@resource-id="cn.xuexi.android:id/my_edit"]
+[2020-12-23 20:26:27,033][DEBUG][startup.py][<module>][ 37]: 我的用户信息——>我的
+[2020-12-23 20:26:29,169][DEBUG][startup.py][<module>][ 37]: 我的——>首页
+[2020-12-23 20:26:37,166][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 20:26:37,166][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 20:26:37,166][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 挑战答题, (6, 6)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 争上游答题, (3, 5)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 双人对战, (2, 2)
+[2020-12-23 20:26:37,167][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 20:26:37,168][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 20:26:37,168][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 20:26:37,168][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 20:26:37,168][INFO][retrying.py][call][200]: 今日总得分：    51
+[2020-12-23 20:26:37,168][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 20:26:39,323][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 20:26:39,323][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 20:26:39,323][DEBUG][startup.py][<module>][ 37]: 每日答题: 0
+[2020-12-23 20:26:39,323][DEBUG][startup.py][<module>][ 37]: 挑战答题: 0
+[2020-12-23 20:26:39,323][DEBUG][startup.py][<module>][ 37]: 每周答题: 1234567，下滑：enable
+[2020-12-23 20:26:39,323][DEBUG][startup.py][<module>][ 37]: 专项答题: enable
+[2020-12-23 20:26:39,324][DEBUG][startup.py][<module>][ 37]: 视听学习 积分已达成，无需重复获取积分
+[2020-12-23 20:26:39,324][DEBUG][startup.py][<module>][ 37]: 视听学习时长 积分已达成，无需重复获取积分
+[2020-12-23 20:26:39,324][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须读诗歌
+[2020-12-23 20:26:39,324][INFO][startup.py][<module>][ 37]: 挑战答题积分已达成，无需重复挑战
+[2020-12-23 20:26:41,325][INFO][startup.py][<module>][ 37]: 争上游已经得到满分，跳过 
+[2020-12-23 20:26:43,326][INFO][startup.py][<module>][ 37]: 每周答题已经有积分，不再重复答题！
+[2020-12-23 20:26:45,326][INFO][startup.py][<module>][ 37]: 订阅开关已关闭，跳过
+[2020-12-23 20:26:47,326][DEBUG][startup.py][<module>][ 37]: 本地频道 积分已达成，无需重复获取积分
+[2020-12-23 20:26:47,326][INFO][startup.py][<module>][ 37]: 本地频道已达成，跳过
+[2020-12-23 20:26:47,326][DEBUG][startup.py][<module>][ 37]: 发表观点 积分已达成，无需重复获取积分
+[2020-12-23 20:26:47,326][DEBUG][startup.py][<module>][ 37]: 分享 积分已达成，无需重复获取积分
+[2020-12-23 20:26:47,326][INFO][startup.py][<module>][ 37]: 新闻阅读订阅均已达成，跳过
+[2020-12-23 20:26:49,327][INFO][startup.py][<module>][ 37]: 双人对战已经得到满分，跳过 
+[2020-12-23 20:26:51,328][INFO][startup.py][<module>][ 37]: 每日答题积分已达成，无需重复答题
+[2020-12-23 20:26:53,465][DEBUG][startup.py][<module>][ 37]: safe click //android.widget.TextView[@text="我的"]
+[2020-12-23 20:26:54,894][DEBUG][startup.py][<module>][ 37]: safe click //*[@text="我要答题"]
+[2020-12-23 20:27:01,346][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:01,710][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:04,362][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:04,725][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:07,600][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:07,979][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:10,699][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:11,060][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:13,879][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:14,239][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:17,113][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:17,476][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:20,362][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:20,725][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:23,190][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:23,558][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:26,496][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:26,861][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:29,792][INFO][startup.py][<module>][ 37]: 本页没有可点击的专项，上滑一次
+[2020-12-23 20:27:30,171][DEBUG][startup.py][<module>][ 37]: 快速向上滑动屏幕
+[2020-12-23 20:27:30,458][INFO][startup.py][<module>][ 37]: 都过期了,找不到未做的题目，退出。
+[2020-12-23 20:27:30,458][DEBUG][startup.py][<module>][ 37]: default msg
+[2020-12-23 20:27:32,536][DEBUG][startup.py][<module>][ 37]: quiz -> mine
+[2020-12-23 20:27:34,632][DEBUG][startup.py][<module>][ 37]: mine -> home
+[2020-12-23 20:27:45,108][INFO][retrying.py][call][200]: 发表观点, (1, 1)
+[2020-12-23 20:27:45,108][INFO][retrying.py][call][200]: 登录, (1, 1)
+[2020-12-23 20:27:45,108][INFO][retrying.py][call][200]: 我要选读文章, (12, 12)
+[2020-12-23 20:27:45,109][INFO][retrying.py][call][200]: 视听学习, (6, 6)
+[2020-12-23 20:27:45,109][INFO][retrying.py][call][200]: 视听学习时长, (6, 6)
+[2020-12-23 20:27:45,109][INFO][retrying.py][call][200]: 每日答题, (5, 5)
+[2020-12-23 20:27:45,109][INFO][retrying.py][call][200]: 每周答题, (5, 5)
+[2020-12-23 20:27:45,109][INFO][retrying.py][call][200]: 专项答题, (0, 10)
+[2020-12-23 20:27:45,110][INFO][retrying.py][call][200]: 挑战答题, (6, 6)
+[2020-12-23 20:27:45,110][INFO][retrying.py][call][200]: 争上游答题, (3, 5)
+[2020-12-23 20:27:45,110][INFO][retrying.py][call][200]: 双人对战, (2, 2)
+[2020-12-23 20:27:45,110][INFO][retrying.py][call][200]: 订阅, (0, 2)
+[2020-12-23 20:27:45,110][INFO][retrying.py][call][200]: 分享, (1, 1)
+[2020-12-23 20:27:45,110][INFO][retrying.py][call][200]: 本地频道, (1, 1)
+[2020-12-23 20:27:45,111][INFO][retrying.py][call][200]: 强国运动, (2, 2)
+[2020-12-23 20:27:45,111][INFO][retrying.py][call][200]: 今日总得分：    51
+[2020-12-23 20:27:45,111][DEBUG][retrying.py][call][200]: score -> home
+[2020-12-23 20:27:47,224][DEBUG][startup.py][<module>][ 37]: 我要选读文章: 0
+[2020-12-23 20:27:47,224][DEBUG][startup.py][<module>][ 37]: 视听学习: 0
+[2020-12-23 20:27:47,224][INFO][startup.py][<module>][ 37]: 视听学习积分已达成，无须重复视听
+[2020-12-23 20:27:47,224][DEBUG][startup.py][<module>][ 37]: 本地频道 积分已达成，无需重复获取积分
+[2020-12-23 20:27:47,224][INFO][startup.py][<module>][ 37]: 本地频道已达成，跳过
+[2020-12-23 20:27:47,226][DEBUG][startup.py][<module>][ 37]: 发表观点 积分已达成，无需重复获取积分
+[2020-12-23 20:27:47,226][DEBUG][startup.py][<module>][ 37]: 分享 积分已达成，无需重复获取积分
+[2020-12-23 20:27:47,226][INFO][startup.py][<module>][ 37]: 新闻阅读订阅均已达成，跳过
+[2020-12-23 20:27:47,226][INFO][startup.py][<module>][ 37]: 本账号学习用时：02:39
+[2020-12-23 20:27:47,226][INFO][startup.py][<module>][ 37]: 任务完成，1分钟后自动关闭程序
